@@ -4,7 +4,7 @@
 #
 #
 #==========================================================
-NOW=`date +%s`; DATE=`date +%Y-%m-%d`;
+NOW=`date +%s`;
 XDATE=`echo "obase=16;ibase=10; $NOW" | bc`;
 InDIR="/var/lib/dokuwiki/data/pages";
 #
