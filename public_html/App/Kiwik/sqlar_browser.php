@@ -4,7 +4,7 @@
 // Dokuwiki code blocks (<code ...>...</code> and indented pre), and inline <html>...</html> passthrough.
 
 // ---------- Config ----------
-$DEFAULT_DB = __DIR__ . '/db/Dokuwiki-Inspiron.db'; // Change to your archive. You can also pass ?db=/path/to/archive.db
+$DEFAULT_DB = __DIR__ . '/db/Kiwik.db'; // Change to your archive. You can also pass ?db=/path/to/archive.db
 $ALLOW_DB_QUERY_PARAM = true;              // allow ?db=... (restrict in production)
 $ALLOWED_DB_DIRS = [__DIR__];             // allowed directories for db if query param allowed
 
