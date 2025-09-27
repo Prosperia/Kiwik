@@ -1,6 +1,6 @@
 # About Kiwik
 
-The script is an SQLar Archive browser that has been created for viewing offline archives of Dokuwiki instances.
+The script is an SQLar Archive browser that has been created for viewing offline archives of [Dokuwiki](https://www.dokuwiki.org) instances.
 
 Kiwik is a younger brother of [Kiwix](https://github.com/kiwix).
 
